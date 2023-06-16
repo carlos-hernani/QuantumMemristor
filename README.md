@@ -1,5 +1,5 @@
 # QuantumMemristor
 
-Official Repository for "Maximization of Memristive Behaviour Using Machine Learning"
+Official Repository for "Machine Learning for the maximization of memristive behaviour in a system of two-coupled quantum memristors"
 
 
